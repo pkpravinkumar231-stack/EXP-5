@@ -82,7 +82,7 @@ Build the Zener regulator circuit in Proteus using the 1N4735A, the series resis
 **Figure 3:** Proteus simulation – line regulation
 
 ### B. Load regulation – simulation
-![image alt](https://github.com/pkpravinkumar231-stack/EXP-5/blob/93d08ac2acfa8d1065c6711d57c1c312d7487f4d/WhatsApp%20Image%202026-11-22%20at%207.01.32%20PM%205.jpeg)
+![image alt](https://github.com/pkpravinkumar231-stack/EXP-5/blob/93d08ac2acfa8d1065c6711d57c1c312d7487f4d/Screenshot%202026-11-22%20185728%204.png)
 **Figure 4:** Proteus simulation – load regulation
 
 ## TABULATION
