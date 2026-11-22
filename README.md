@@ -1,8 +1,8 @@
 # EXPERIMENT NO. 5 – ZENER DIODE AS VOLTAGE REGULATOR
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:Pravin Kumar P | | **Reg. No.:26018258 | |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:22/11/2026 | | **Batch / Section:26ODJ088 | |
 
 ---
 
@@ -61,7 +61,7 @@ In a Zener voltage regulator, the Zener diode is connected in reverse bias in pa
 
 ### A. Line regulation
 
-*[ Insert the line regulation circuit diagram here ]*
+![image alt](
 
 **Figure 1:** Zener voltage regulator – line regulation
 
